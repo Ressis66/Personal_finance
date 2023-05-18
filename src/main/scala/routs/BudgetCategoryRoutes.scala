@@ -1,0 +1,5 @@
+package routs
+
+object BudgetCategoryRoutes {
+
+}
